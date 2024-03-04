@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Telkom University
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
     <div id="badges">
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp Badge"/>
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
@@ -20,23 +19,17 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/line.gif" width=640>
+<img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/line.gif" width=750>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamalmlzka&theme=react&hide_border=false&include_all_commits=true&count_private=true" width=500</a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalmlzka&theme=react&hide_border=false" width=500</a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalmlzka&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width=500</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kamalmlzka&bg_color=35,ffcc70,c850c0,4158d0&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalmlzka&layout=compact&langs_count=8&card_width=320&bg_color=35,4158d0,c850c0,ffcc70&title_color=fff&text_color=fff" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalmlzka&theme=ambient_gradient" />
 </div>
 
 <p align="center">
-<img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/line.gif" width=640>
+<img src="https://github.com/Mobanzu/Mobanzu/blob/main/assets/line.gif" width=750>
 </p>
 
 <div align="center">
